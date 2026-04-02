@@ -16,6 +16,7 @@
 
 
 **Take a screenshot of the AWS S3 web console that shows the state file only.**
-![alt text](images/state-file.png)
+<img width="2151" height="717" alt="state-file" src="https://github.com/user-attachments/assets/7084a441-4124-4830-9e80-55548ee4972f" />
+
 **Take a screenshot of the AWS S3 web console that shows the lock file and the state file.**
-![alt text](images/lock-file.png)
+<img width="2190" height="656" alt="lock-file" src="https://github.com/user-attachments/assets/90cdbb81-4e2f-4dcd-ae82-6825004e3ed4" />
